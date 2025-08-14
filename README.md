@@ -56,12 +56,15 @@ bash
 Copy
 Edit
 php artisan serve
-🔒 Login Credentials (Demo)
-Note: These credentials are for demonstration purposes only. Change them for production use.
 
-Username: 01795074972
+🔒 **Demo Login Credentials**  
+**Live URL:** [https://erp.bestprintersltd.com](https://erp.bestprintersltd.com)  
 
-Password: 12345678
+> **Note:** The following credentials are for demonstration purposes only. Please update them before using in a production environment.  
+
+- **Username:** `01795074972`  
+- **Password:** `12345678`
+
 
 📸 Screenshots
 (Add screenshots of the dashboard and modules here)
