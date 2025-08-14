@@ -2,7 +2,13 @@
 
 Best Printers Ltd. ERP is a comprehensive enterprise resource planning platform
 
+🔒 **Demo Login Credentials**  
+**Live URL:** [https://erp.bestprintersltd.com](https://erp.bestprintersltd.com)  
 
+> **Note:** The following credentials are for demonstration purposes only. Please update them before using in a production environment.  
+
+- **Username:** `01795074972`  
+- **Password:** `12345678`
 # 📸 Screenshots
 ![Screenshot 1](https://github.com/arafatnahid/Priniting-Management-System-PMS-/blob/main/images/Screenshot_1318.png)
 
@@ -78,6 +84,4 @@ php artisan serve
 - **Password:** `12345678`
 
 
-📸 Screenshots
-(Add screenshots of the dashboard and modules here)
 
