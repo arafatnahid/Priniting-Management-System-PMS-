@@ -4,14 +4,14 @@ Best Printers Ltd. ERP is a comprehensive enterprise resource planning platform
 
 
 # 📸 Screenshots
-![Screenshot 1](https://github.com/arafatnahid/Game-Based-Learning-App/blob/main/assets/images/Screenshot_1318.png)
+![Screenshot 1](https://github.com/arafatnahid/Priniting-Management-System-PMS-/blob/main/images/Screenshot_1318.png)
 
-![Screenshot 2](https://github.com/arafatnahid/Game-Based-Learning-App/blob/main/assets/images/Screenshot_1317.png)
+![Screenshot 2](https://github.com/arafatnahid/Priniting-Management-System-PMS-/blob/main/images/Screenshot_1317.png)
 
-![Screenshot 3](https://github.com/arafatnahid/Game-Based-Learning-App/blob/main/assets/images/Screenshot_1315.png)
-![Screenshot 4](https://github.com/arafatnahid/Game-Based-Learning-App/blob/main/assets/images/Screenshot_1316.png)
-![Screenshot 5](https://github.com/arafatnahid/Game-Based-Learning-App/blob/main/assets/images/Screenshot_1319.png)
-![Screenshot 6](https://github.com/arafatnahid/Game-Based-Learning-App/blob/main/assets/images/Screenshot_1320.png)
+![Screenshot 3](https://github.com/arafatnahid/Priniting-Management-System-PMS-/blob/main/images/Screenshot_1315.png)
+![Screenshot 4](https://github.com/arafatnahid/Priniting-Management-System-PMS-/blob/main/images/Screenshot_1316.png)
+![Screenshot 5](https://github.com/arafatnahid/Priniting-Management-System-PMS-/blob/main/images/Screenshot_1319.png)
+![Screenshot 6](https://github.com/arafatnahid/Priniting-Management-System-PMS-/blob/main/images/Screenshot_1320.png)
 
 
 ## 🚀 Features
