@@ -34,9 +34,9 @@ Best Printers Ltd. ERP is a comprehensive enterprise resource planning platform
 ---
 
 ## 🛠️ Tech Stack
-- **Backend:** PHP / Laravel *(assumed — update if different)*
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap *(update if different)*
-- **Database:** MySQL *(update if different)*
+- **Backend:** PHP / Laravel 
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap 
+- **Database:** MySQL 
 
 ---
 
